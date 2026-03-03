@@ -60,8 +60,8 @@ Dynamic posts, DOM manipulation and modular JavaScript architecture.
 🔹 **Supermarket Simulation**  
 Console-based system with validations, discount logic and modular design.
 
-🔹 **Advanced ES6 To-Do App**  
-Classes, async/await, generators, Maps/Sets and structured state management.
+🔹 **Library Management System (Full Stack)**  
+Full CRUD application with RESTful routes, MVC-style structure, Sequelize ORM integration, relational database management, validations and scalable backend architecture.
 
 🔹 **Cybersecurity Website**  
 Responsive design using Bootstrap and structured frontend architecture.
