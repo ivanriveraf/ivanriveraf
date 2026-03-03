@@ -1,114 +1,78 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Iván+Rivera;Full+Stack+JavaScript+Developer;Building+Structured+%26+Scalable+Solutions" />
-</h1>
+<h1 align="center">Iván Rivera</h1>
+<h3 align="center">Junior Full Stack JavaScript Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ivanriveraf&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+Focused on building clean, structured and scalable web applications.
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Professional Profile
 
-- 💻 Full Stack JavaScript Developer  
-- 🎓 Full Stack Development Program – Talento Digital / Skillnest (2025)  
-- 🌎 Intermediate–Advanced English  
-- 📍 Chile  
-- 🧠 Focused on clean architecture & scalable systems  
+Full Stack JavaScript Developer with training in modern web technologies.  
+Strong foundation in frontend and backend development, REST APIs, and relational databases.
 
-I don’t just write code — I build structured, maintainable and user-focused applications.
-
-Currently seeking opportunities as a **Software Developer Trainee / Junior Developer**.
+Currently seeking an opportunity as a **Software Developer Trainee / Junior Developer** to contribute in real-world production environments and continue growing professionally.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Stack
 
-### 👨‍💻 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+**Frontend:**  
+HTML5 • CSS3 • JavaScript (ES6+) • Bootstrap • jQuery  
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+**Backend:**  
+Node.js • Express.js • Sequelize ORM  
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+**Databases:**  
+MySQL • PostgreSQL  
 
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+**Tools & Workflow:**  
+Git • GitHub • Postman • VS Code • Render  
 
 ---
 
 ## 📌 Featured Projects
 
-🔹 **Matrix-Style Portfolio**  
-Interactive UI, animated background and responsive structure.
+### 🔹 Library Management System (Full Stack)
+Complete CRUD system with RESTful routes, structured backend architecture, Sequelize ORM integration, relational database management and modular project organization.
 
-🔹 **Mini Social Network**  
-Dynamic posts, DOM manipulation and modular JavaScript architecture.
+### 🔹 Matrix-Style Portfolio
+Interactive responsive portfolio with animated background and structured UI transitions.
 
-🔹 **Supermarket Simulation**  
-Console-based system with validations, discount logic and modular design.
+### 🔹 Mini Social Network
+Dynamic post system with DOM manipulation and modular JavaScript architecture.
 
-🔹 **Library Management System (Full Stack)**  
-Full CRUD application with RESTful routes, MVC-style structure, Sequelize ORM integration, relational database management, validations and scalable backend architecture.
-
-🔹 **Cybersecurity Website**  
-Responsive design using Bootstrap and structured frontend architecture.
+### 🔹 Supermarket Simulation
+Console-based modular application with validations, discount logic and clean structure.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivanriveraf&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
+## 📊 Development Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ivanriveraf&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanriveraf&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
 ---
 
-## 🧠 Currently Learning
+## 🎯 Professional Goals
 
-- Backend architecture patterns  
-- REST API design  
-- Scalable project structures  
-- Clean Code principles  
+- Strengthen backend scalability and architecture
+- Contribute to collaborative development teams
+- Work on production-level applications
+- Continue improving clean code practices
 
 ---
 
-## 🎯 2026 Goals
-
-- Work in production-level environments  
-- Strengthen backend scalability  
-- Collaborate in high-performance teams  
-- Keep building impactful web solutions  
-
----
-
-## 📫 Let's Connect
+## 📫 Contact
 
 - 💼 LinkedIn: https://www.linkedin.com/in/ivan-patricio-rivera-fuentealba/
 - 🌐 Portfolio: https://ivanriveraf.github.io/Portafolio-matrix/
-- 📧 Email: ivan.riverafuentealba@gmail.com
+- 📧 Email:ivan.riverafuentealba@gmail.com
 
 ---
 
 <p align="center">
-  <em>"Code is temporary. Architecture is intentional."</em>
+  <em>Building solutions, not just code.</em>
 </p>
