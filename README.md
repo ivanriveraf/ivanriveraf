@@ -1,83 +1,115 @@
-<h1 align="center">Hola 👋, soy Iván Rivera</h1>
-<h3 align="center">Desarrollador Full Stack JavaScript</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Iván+Rivera;Full+Stack+JavaScript+Developer;Building+Structured+%26+Scalable+Solutions" />
+</h1>
 
 <p align="center">
-Apasionado por el desarrollo web, la tecnología y la creación de experiencias digitales atractivas y funcionales.
+  <img src="https://komarev.com/ghpvc/?username=ivanriveraf&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-💻 Desarrollador Full Stack JavaScript  
-🎓 Formación en Desarrollo Full Stack – Talento Digital / Skillnest (2025)  
-🌎 Inglés Intermedio–Avanzado  
-🧠 En constante aprendizaje y mejora continua  
-📍 Chile  
+- 💻 Full Stack JavaScript Developer  
+- 🎓 Full Stack Development Program – Talento Digital / Skillnest (2025)  
+- 🌎 Intermediate–Advanced English  
+- 📍 Chile  
+- 🧠 Focused on clean architecture & scalable systems  
 
-Me enfoco en construir aplicaciones web funcionales, bien estructuradas y con una experiencia de usuario clara. Me gusta entender cómo funcionan las cosas por dentro y desarrollar soluciones limpias y escalables.
+I don’t just write code — I build structured, maintainable and user-focused applications.
+
+Currently seeking opportunities as a **Software Developer Trainee / Junior Developer**.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Tech Stack
 
 ### 👨‍💻 Frontend
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript (ES6+)
-- jQuery
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### ⚙️ Backend
-- Node.js
-- Express.js
-- Sequelize
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
-### 🗄️ Bases de Datos
-- MySQL
-- PostgreSQL
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔧 Herramientas
-- Git & GitHub
-- VS Code
-- Postman
-- Render
-
----
-
-## 📂 Proyectos Destacados
-
-🔹 **Portafolio Web estilo Matrix**  
-Portafolio interactivo con animaciones, fondo dinámico y diseño personalizado.
-
-🔹 **Mini Red Social (Sistema de Likes)**  
-Aplicación web con publicaciones dinámicas, interacción con usuarios y manipulación del DOM con JavaScript.
-
-🔹 **Simulación Supermercado (JavaScript modular)**  
-Sistema de compras en consola con validaciones, descuentos y estructura modular.
-
-🔹 **To-Do App con ES6+**  
-Aplicación con clases, módulos, async/await y manejo estructurado de datos.
-
-🔹 **Sitio Web Informativo sobre Ciberseguridad**  
-Proyecto académico aplicando HTML, CSS, Bootstrap y JavaScript.
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 ---
 
-## 📈 Actualmente
+## 📌 Featured Projects
 
-- Mejorando mis habilidades en arquitectura backend
-- Profundizando en buenas prácticas y código limpio
-- Preparándome para nuevas oportunidades como Desarrollador Trainee / Junior
+🔹 **Matrix-Style Portfolio**  
+Interactive UI, animated background and responsive structure.
+
+🔹 **Mini Social Network**  
+Dynamic posts, DOM manipulation and modular JavaScript architecture.
+
+🔹 **Supermarket Simulation**  
+Console-based system with validations, discount logic and modular design.
+
+🔹 **Advanced ES6 To-Do App**  
+Classes, async/await, generators, Maps/Sets and structured state management.
+
+🔹 **Cybersecurity Website**  
+Responsive design using Bootstrap and structured frontend architecture.
 
 ---
 
-## 📫 Conectemos
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+- Backend architecture patterns  
+- REST API design  
+- Scalable project structures  
+- Clean Code principles  
+
+---
+
+## 🎯 2026 Goals
+
+- Work in production-level environments  
+- Strengthen backend scalability  
+- Collaborate in high-performance teams  
+- Keep building impactful web solutions  
+
+---
+
+## 📫 Let's Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/ivan-patricio-rivera-fuentealba/
-- 🌐 Portafolio: https://ivanriveraf.github.io/Portafolio-matrix/
+- 🌐 Portfolio: https://ivanriveraf.github.io/Portafolio-matrix/
 - 📧 Email: ivan.riverafuentealba@gmail.com
 
 ---
 
-⭐ Siempre abierto a colaborar en proyectos y seguir creciendo profesionalmente.
+<p align="center">
+  <em>"Code is temporary. Architecture is intentional."</em>
+</p>
