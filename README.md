@@ -74,9 +74,9 @@ Proyecto académico aplicando HTML, CSS, Bootstrap y JavaScript.
 
 ## 📫 Conectemos
 
-- 💼 LinkedIn: (agrega aquí tu link)
-- 🌐 Portafolio: (agrega aquí tu link)
-- 📧 Email: (opcional)
+- 💼 LinkedIn: https://www.linkedin.com/in/ivan-patricio-rivera-fuentealba/
+- 🌐 Portafolio: https://ivanriveraf.github.io/Portafolio-matrix/
+- 📧 Email: ivan.riverafuentealba@gmail.com
 
 ---
 
