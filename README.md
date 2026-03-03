@@ -1,16 +1,83 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy Iván Rivera</h1>
+<h3 align="center">Desarrollador Full Stack JavaScript</h3>
 
-<!--
-**ivanriveraf/ivanriveraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Apasionado por el desarrollo web, la tecnología y la creación de experiencias digitales atractivas y funcionales.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+💻 Desarrollador Full Stack JavaScript  
+🎓 Formación en Desarrollo Full Stack – Talento Digital / Skillnest (2025)  
+🌎 Inglés Intermedio–Avanzado  
+🧠 En constante aprendizaje y mejora continua  
+📍 Chile  
+
+Me enfoco en construir aplicaciones web funcionales, bien estructuradas y con una experiencia de usuario clara. Me gusta entender cómo funcionan las cosas por dentro y desarrollar soluciones limpias y escalables.
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+### 👨‍💻 Frontend
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript (ES6+)
+- jQuery
+
+### ⚙️ Backend
+- Node.js
+- Express.js
+- Sequelize
+
+### 🗄️ Bases de Datos
+- MySQL
+- PostgreSQL
+
+### 🔧 Herramientas
+- Git & GitHub
+- VS Code
+- Postman
+- Render
+
+---
+
+## 📂 Proyectos Destacados
+
+🔹 **Portafolio Web estilo Matrix**  
+Portafolio interactivo con animaciones, fondo dinámico y diseño personalizado.
+
+🔹 **Mini Red Social (Sistema de Likes)**  
+Aplicación web con publicaciones dinámicas, interacción con usuarios y manipulación del DOM con JavaScript.
+
+🔹 **Simulación Supermercado (JavaScript modular)**  
+Sistema de compras en consola con validaciones, descuentos y estructura modular.
+
+🔹 **To-Do App con ES6+**  
+Aplicación con clases, módulos, async/await y manejo estructurado de datos.
+
+🔹 **Sitio Web Informativo sobre Ciberseguridad**  
+Proyecto académico aplicando HTML, CSS, Bootstrap y JavaScript.
+
+---
+
+## 📈 Actualmente
+
+- Mejorando mis habilidades en arquitectura backend
+- Profundizando en buenas prácticas y código limpio
+- Preparándome para nuevas oportunidades como Desarrollador Trainee / Junior
+
+---
+
+## 📫 Conectemos
+
+- 💼 LinkedIn: (agrega aquí tu link)
+- 🌐 Portafolio: (agrega aquí tu link)
+- 📧 Email: (opcional)
+
+---
+
+⭐ Siempre abierto a colaborar en proyectos y seguir creciendo profesionalmente.
