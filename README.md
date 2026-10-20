@@ -1,78 +1,62 @@
-<h1 align="center">Iván Rivera</h1>
-<h3 align="center">Junior Full Stack JavaScript Developer</h3>
+# Iván Rivera
 
-<p align="center">
-Focused on building clean, structured and scalable web applications.
-</p>
+**Junior Full Stack JavaScript Developer** · Node.js · Express · PostgreSQL · React
 
----
-
-## 👨‍💻 Professional Profile
-
-Full Stack JavaScript Developer with training in modern web technologies.  
-Strong foundation in frontend and backend development, REST APIs, and relational databases.
-
-Currently seeking an opportunity as a **Software Developer Trainee / Junior Developer** to contribute in real-world production environments and continue growing professionally.
+I build complete web applications — from the data model to the interface.
+Currently looking for my first role as a junior developer.
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Stack
 
-**Frontend:**  
-HTML5 • CSS3 • JavaScript (ES6+) • Bootstrap • jQuery  
-
-**Backend:**  
-Node.js • Express.js • Sequelize ORM  
-
-**Databases:**  
-MySQL • PostgreSQL  
-
-**Tools & Workflow:**  
-Git • GitHub • Postman • VS Code • Render  
+**Backend** Node.js · Express · Sequelize ORM · JWT · Bcrypt
+**Databases** PostgreSQL · MySQL · SQL (DDL/DML)
+**Frontend** JavaScript (ES6+) · React · EJS · HTML5 · CSS3 · Bootstrap
+**Tools** Git · GitHub · Postman · VS Code · Render
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured projects
 
-### 🔹 Library Management System (Full Stack)
-Complete CRUD system with RESTful routes, structured backend architecture, Sequelize ORM integration, relational database management and modular project organization.
+**[Tienda de libros](https://github.com/ivanriveraf/tienda-libros-jwt)** — full stack
+Node + Express + Sequelize + PostgreSQL. User registration, JWT login and
+purchases, served with EJS views.
+→ *Relational modelling, authentication and server-side rendering.*
 
-### 🔹 Matrix-Style Portfolio
-Interactive responsive portfolio with animated background and structured UI transitions.
+**[Fantasy Cloud](https://github.com/ivanriveraf/fantasy-cloud-portfolio)** — freelance
+Website built for a real client: an author presenting her books.
+→ *Work with a real brief, deadline and feedback.*
 
-### 🔹 Mini Social Network
-Dynamic post system with DOM manipulation and modular JavaScript architecture.
+**[Profiles REST API](https://github.com/ivanriveraf/API-REST-con-JWT-y-Bcrypt)** — backend
+JWT with refresh tokens, password hashing with Bcrypt and image uploads.
+→ *Auth beyond a basic login.*
 
-### 🔹 Supermarket Simulation
-Console-based modular application with validations, discount logic and clean structure.
+**[Repón](https://github.com/ivanriveraf/repon-app)** — React
+Home inventory and shopping list.
+→ *Component state and UI built with a framework.*
+
+**[juegos-cumple](https://github.com/ivanriveraf/juegos-cumple)** — JavaScript engine
+Personalises birthday games from a single JSON. Includes a Spanish grammatical
+gender engine (`¡Bienvenid[o|a|e], {nombre}!`) with a linter and tests in Node.
+→ *Architecture, text processing and automated testing.*
 
 ---
 
-## 📊 Development Activity
+## 🎮 And something a bit different
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ivanriveraf&theme=tokyonight" />
-</p>
+**[¡Corre, Sofía!](https://ivanriveraf.itch.io/corre-sofia)** — playable in the browser
+A 2D runner in Godot 4 that personalises itself from the same JSON. Every
+sprite measurement is derived from the art rather than eyeballed, with a Node
+pipeline that measures it and **91 automated checks** that run headless.
 
----
-
-## 🎯 Professional Goals
-
-- Strengthen backend scalability and architecture
-- Contribute to collaborative development teams
-- Work on production-level applications
-- Continue improving clean code practices
+[Code and process](https://github.com/ivanriveraf/corre-sofia) · It's not web
+development, but it's where I learned to finish, measure and test a product
+end to end.
 
 ---
 
 ## 📫 Contact
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ivan-patricio-rivera-fuentealba/
-- 🌐 Portfolio: https://ivanriveraf.github.io/Portafolio-matrix/
-- 📧 Email:ivan.riverafuentealba@gmail.com
-
----
-
-<p align="center">
-  <em>Building solutions, not just code.</em>
-</p>
+[LinkedIn](https://www.linkedin.com/in/ivan-patricio-rivera-fuentealba/) ·
+[Portfolio](https://ivanriveraf.github.io/Portafolio-matrix/) ·
+ivan.riverafuentealba@gmail.com
